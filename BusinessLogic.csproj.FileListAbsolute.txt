@@ -1,0 +1,9 @@
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\harshu\Desktop\Test\TestMS\BusinessLogic\obj\Debug\BusinessLogic.pdb
